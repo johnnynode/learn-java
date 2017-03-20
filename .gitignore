@@ -1,8 +1,10 @@
 .DS_Store/
-.DS_Store
 .idea/
 .settings/
 .metadata/
-*.log
+.DS_Store
 .class
 .classpath
+.project
+bin/*.*
+*.log
