@@ -9,3 +9,4 @@
 bin/*.*
 *.log
 /bin/
+/bin1/
