@@ -9,3 +9,12 @@
 - 局部变量：
   通常将方法中的属性称为局部变量  
   局部变量声明在方法体中。
+- 关于main方法：
+  Java中的main方法必须声明为public static void
+  其中 public 是main方法的权限修饰符
+  static 是静态修饰符
+  void 是返回值修饰符
+  String[] args 是一个字符串类型数组，它是main方法的参数
+  main 方法是程序开始执行的位置
+- 关于API类库
+  Java 中通过import关键字导入相关的类,主要包括类的继承结构，类的应用，成员变量表，构造方法
