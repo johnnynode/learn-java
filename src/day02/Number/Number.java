@@ -9,5 +9,4 @@ public class Number {
 		long result = mybyte + myshort + myint + mylong;
 		System.out.println("结果为：" + result);
 	}
-
 }
