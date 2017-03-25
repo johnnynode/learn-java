@@ -1,6 +1,6 @@
-### å­¦ä¹ ç¬”è®°
+### Ñ§Ï°±Ê¼Ç
 
-- HelloJava.classæ–‡ä»¶
-1. HelloJava.java æ–‡ä»¶ä¸­ å­—ç¬¦ä¸²ä¸èƒ½ç”¨å•å¼•å·ï¼Œå¦åˆ™ä¼šæŠ¥é”™ï¼›
-2. è¿è¡Œæ—¶ï¼Œåªéœ€å…ˆç¼–è¯‘ä¸€æ¬¡`javac HelloJava.java`,ç„¶åŽå†è¿è¡Œ `java HelloJava` å°±ä¼šè¾“å‡º"Hello Java" å­—ç¬¦ä¸²äº†ã€‚
-3. æ–‡ä»¶ååº”è¯¥å’Œæœ€å¤–å±‚publicçš„ç±»åä¿æŒä¸€ç›´ï¼Œå¦åˆ™ä¼šå‡ºé”™ã€‚
+- HelloJava.classÎÄ¼þ
+1. HelloJava.java ÎÄ¼þÖÐ ×Ö·û´®²»ÄÜÓÃµ¥ÒýºÅ£¬·ñÔò»á±¨´í£»
+2. ÔËÐÐÊ±£¬Ö»ÐèÏÈ±àÒëÒ»´Î`javac HelloJava.java`,È»ºóÔÙÔËÐÐ `java HelloJava` ¾Í»áÊä³ö"Hello Java" ×Ö·û´®ÁË¡£
+3. ÎÄ¼þÃûÓ¦¸ÃºÍ×îÍâ²ãpublicµÄÀàÃû±£³ÖÒ»Ö±£¬·ñÔò»á³ö´í¡£

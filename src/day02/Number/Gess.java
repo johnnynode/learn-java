@@ -5,9 +5,9 @@ public class Gess {
 	public static void main(String[] args) {
 		char word = 'd', word2 = '@';
 		int p = 23045, p2 = 45213;
-        System.out.println("d åœ¨unicode è¡¨ä¸­çš„ä½ç½®æ˜¯ï¼š" + (int)word);
-        System.out.println("@ åœ¨unicode è¡¨ä¸­çš„ä½ç½®æ˜¯ï¼š" + (int)word2);
-        System.out.println("unicode è¡¨ä¸­ç¬¬23045ä½æ˜¯ï¼š" + (char)p);
-        System.out.println("unicode è¡¨ä¸­ç¬¬45213ä½æ˜¯ï¼š" + (char)p2);
+        System.out.println("d ÔÚunicode ±íÖĞµÄÎ»ÖÃÊÇ£º" + (int)word);
+        System.out.println("@ ÔÚunicode ±íÖĞµÄÎ»ÖÃÊÇ£º" + (int)word2);
+        System.out.println("unicode ±íÖĞµÚ23045Î»ÊÇ£º" + (char)p);
+        System.out.println("unicode ±íÖĞµÚ45213Î»ÊÇ£º" + (char)p2);
 	}
 }

@@ -2,6 +2,6 @@ package day01;
 
 public class HelloJava {
 	public static void main(String[] args){
-        System.out.println("Hello Java"); // 姝ゅ涓嶈兘鏄崟寮曞彿 ''
+        System.out.println("Hello Java"); // 此处不能是单引号 ''
     }
 }

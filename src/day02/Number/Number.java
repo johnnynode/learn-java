@@ -7,6 +7,6 @@ public class Number {
 		int myint = 45784612;
 		long mylong = 46789451;
 		long result = mybyte + myshort + myint + mylong;
-		System.out.println("ç»“æžœä¸ºï¼š" + result);
+		System.out.println("½á¹ûÎª£º" + result);
 	}
 }

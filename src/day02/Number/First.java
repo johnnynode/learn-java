@@ -1,10 +1,10 @@
 package day02.Number;
 
 public class First {
-	static String s1 = "ä½ å¥½"; // å…¨å±€å˜é‡
+	static String s1 = "ÄãºÃ"; // È«¾Ö±äÁ¿
 	public static void main(String[] args) {
-		String s2 = "Java"; // å±€éƒ¨å˜é‡
-		System.out.println(s1); // ä½ å¥½
+		String s2 = "Java"; // ¾Ö²¿±äÁ¿
+		System.out.println(s1); // ÄãºÃ
 		System.out.println(s2); // Java
 	}
 }
