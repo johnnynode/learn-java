@@ -62,4 +62,4 @@
 
 ## 其他
 - eclipse 复制一行 command + alt + ↓
-- eclipse 删除一行 command + d
+- eclipse 删除一行 command + d (在window上设置的是ctrl+d)

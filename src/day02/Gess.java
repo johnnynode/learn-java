@@ -1,4 +1,4 @@
-package day02.Number;
+package day02;
 
 public class Gess {
 
