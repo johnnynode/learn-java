@@ -1,7 +1,5 @@
 package chapter3.day03;
-
 public class Eval {
-
 	public static void main(String[] args) {
 		int a,b,c;
 		a = 15;

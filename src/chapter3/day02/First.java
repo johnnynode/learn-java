@@ -1,10 +1,9 @@
 package chapter3.day02;
-
 public class First {
-	static String s1 = "ÄãºÃ"; // È«¾Ö±äÁ¿
+	static String s1 = "ï¿½ï¿½ï¿½"; // å…¨å±€å˜é‡
 	public static void main(String[] args) {
-		String s2 = "Java"; // ¾Ö²¿±äÁ¿
-		System.out.println(s1); // ÄãºÃ
+		String s2 = "Java"; // å±€éƒ¨å˜é‡
+		System.out.println(s1); // ä½ å¥½
 		System.out.println(s2); // Java
 	}
 }

@@ -1,7 +1,5 @@
 package chapter3.day03;
-
 public class TestTypeTransform {
-
 	public static void main(String[] args) {
 		test1(); 
 		test2();

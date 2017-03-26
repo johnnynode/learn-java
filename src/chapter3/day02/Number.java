@@ -1,5 +1,4 @@
 package chapter3.day02;
-
 public class Number {
 	public static void main(String[] args) {
 		byte mybyte = 124;
@@ -7,6 +6,6 @@ public class Number {
 		int myint = 45784612;
 		long mylong = 46789451;
 		long result = mybyte + myshort + myint + mylong;
-		System.out.println("½á¹ûÎª£º" + result);
+		System.out.println("result = " + result);
 	}
 }

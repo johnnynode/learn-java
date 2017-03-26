@@ -1,7 +1,5 @@
 package chapter3.day03;
-
 public class TestOperator {
-
 	public static void main(String[] args) {
 		test1(); // 测试自增自减
 		test2(); // 测试比较运算
@@ -9,7 +7,7 @@ public class TestOperator {
 		test4(); // 测试位运算
 		test5(); // 测试三元运算
 	}
-
+	
 	public static void test1() {
 		System.out.println("测试自增自减");
 		int a = 1;
