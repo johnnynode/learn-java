@@ -1,4 +1,5 @@
-package chapter3.day03;
+package chapter3.part03;
+
 public class Arith {
 	public static void main(String[] args) {
 		float num1 = 45.56f;

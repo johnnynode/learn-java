@@ -1,6 +1,8 @@
-package chapter3.day02;
+package chapter3.part02;
+
 public class First {
-	static String s1 = "���"; // 全局变量
+	static String s1 = "你好"; // 全局变量
+
 	public static void main(String[] args) {
 		String s2 = "Java"; // 局部变量
 		System.out.println(s1); // 你好

@@ -1,4 +1,5 @@
-package chapter3.day02;
+package chapter3.part02;
+
 public class TestEscape {
 	public static void main(String[] args) {
 		char c1 = '\\';

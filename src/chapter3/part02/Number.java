@@ -1,4 +1,5 @@
-package chapter3.day02;
+package chapter3.part02;
+
 public class Number {
 	public static void main(String[] args) {
 		byte mybyte = 124;
