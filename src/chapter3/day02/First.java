@@ -1,4 +1,4 @@
-package day02;
+package chapter3.day02;
 
 public class First {
 	static String s1 = "你好"; // 全局变量

@@ -1,4 +1,4 @@
-package day01;
+package chapter3.day01;
 
 public class HelloJava {
 	public static void main(String[] args){

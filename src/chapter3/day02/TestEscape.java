@@ -1,4 +1,4 @@
-package day02;
+package chapter3.day02;
 public class TestEscape {
 
 	public static void main(String[] args) {
