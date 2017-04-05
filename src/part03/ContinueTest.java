@@ -5,7 +5,7 @@ public class ContinueTest {
 	public static void main(String[] args) {
 		for (int i = 1; i < 20; i++) {
 			if (i % 2 == 0) {
-				continue; // 跳过偶数
+				continue; // 跳出偶数
 			}
 			System.out.println(i);
 		}
