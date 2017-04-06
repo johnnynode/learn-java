@@ -2,6 +2,7 @@ package chapter5.part01;
 
 public class Text {
 	static String str = "We are students";
+	
 	public static void main(String[] args) {
 		testLength();
 		testIndexOf();
