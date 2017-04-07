@@ -7,6 +7,10 @@ public class Text {
 		testLength();
 		testIndexOf();
 		testLastIndexOf();
+		testCharAt();
+		testSubString();
+		testTrim();
+		testReplace();
 	}
 
 	// 输出字符串的长度
@@ -25,5 +29,31 @@ public class Text {
 	public static void testLastIndexOf() {
 		int index = str.lastIndexOf('e');
 		System.out.println("testLastIndexOf: " + index); // testLastIndexOf: 11
+	}
+	
+	// 使用charAt获取指定索引处的字符。
+	public static void testCharAt(){
+		char mychar = str.charAt(1);
+		System.out.println("str中索引位置是1的字符为：" + mychar); // e
+	}
+	
+	// 使用substring 获取子字符串 两种重载形式 单个参数截取到索引到最后一个字符 两个参数截取索引之间
+	public static void testSubString(){
+		System.out.println("测试substring的两种形式：-----" );
+		System.out.println(str.substring(10)); // dents
+		System.out.println(str.substring(10,12)); // de
+		System.out.println("----------");
+	}
+	
+	// trim 使用 去除前导空格和尾部空格。
+	public static void testTrim(){
+		String str = "  Hello World ";
+		System.out.println(str.trim()); // Hello World
+	}
+	
+	// replace 字符串替换
+	public static void testReplace(){
+		String str = "HHxx22stts";
+		System.out.println(str.replace('2', '3')); // HHxx33stts
 	}
 }
