@@ -1,12 +1,5 @@
 .DS_Store/
 .idea/
-.settings/
-.metadata/
 .DS_Store
-.class
-.classpath
-.project
-bin/*.*
+bin/
 *.log
-/bin/
-/bin1/
