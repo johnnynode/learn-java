@@ -121,7 +121,7 @@ public class Text {
 		System.out.println(secondArray); // 直接输出，显示的是一个地址的引用： [Ljava.lang.String;@2a139a55
 	}
 	
-	// 格式化字符串 两种重载形式：这个书上没写清楚 当有需要的时候再看。
+	// 格式化字符串 两种重载形式：这个书上没写清楚 当有需要的时候再看。 format是String的一个静态方法，直接使用。
 	public static void testFormat(){
 		System.out.println(String.format("%1$,09d", -3123));
         System.out.println(String.format("%1$9d", -31));
